@@ -18,3 +18,6 @@ stage('install'){
     sh 'mvn package'
   }
 }
+ 
+}
+}
